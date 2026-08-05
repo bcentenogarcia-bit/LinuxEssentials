@@ -21,12 +21,45 @@
 - Incluyen herramientas específicas para la instalación y la administración del sistema.
 - Algunas se usan para entornos de escritorio(facil de usar) y otras para servidores(usar los recursos de manera eficiente).
 - Las ditribuciones se clasifican por la distribución familiar.
-- Distribuciciones de familia Debian:
-    *  Utilizan gestor de paquetes dpkg
-    *  Formato de paquete .deb (nombredelpaquete.deb)
+- Distribuciones de familia Debian:
+    *  Utilizan gestor de paquetes dpkg.
+    *  Formato de paquete .deb (nombredelpaquete.deb).
     *  Un paquete es un conjunto de software con su correspondiente configuración y documentación que facilita el proceso de instalación, actualización y uso del software.
     *  La distribución Debian GNU/Linux es la más grande:
-          * Fun lanzado por Ian Murdock en 1993.
-          * Su objetivo es proporcionar un sistema operativo muy fiable y promover la visión de Richard Stallman que respete las libertades del usuario (ejecutar, estudiar, distribuir y mejorar el software).
-    * Ubuntu es otra distribución basada en Debian:
+         * Fun lanzado por Ian Murdock en 1993.
+         * Su objetivo es proporcionar un sistema operativo muy fiable y promover la visión de Richard Stallman que respete las libertades del usuario (ejecutar, estudiar, distribuir y mejorar el software).
+    *  Ubuntu es otra distribución basada en Debian:
+         * Fue creado por Mark Shuttleworth en 2004.
+         * Su misión es brindar un entorno de escritorio fácil de usar.
+         * Lanzamientos programados cada 6 meses.
+         * Soporte a largo plazo cada 2 años.
+- Distribución de la familia Red Hat:
+    * Utilizan como gestor de paquetes rpm.
+    * Formato de paquete .rpm (nombredelpaquete.rpm)
+    * La compañia Red Hat fue adquirida por IBM en el 2019.
+    * La distribución de Red Hat Linux se inicio en 1994.
+    * En el 2003 se renombró la distribución a Red Hat Enterprise Linux (RHEL):
+         * Su objetivo es facilitar el uso de Linux en entornos de servidores profesionales.
+         * Algunos de sus componentes requieren suscripciones o licencias de pago.
+    * El proyecto CentOS utiliza código fuente disponible de Red Hat Enterprise Linux y lo compila.
+    * El proyecto fedora se fundo en 2003:
+         * Dirigida a computadoras de escritorio.
+         * Se considera un banco de pruebas para nuevas tecnologías que luego podrían incluirse en RHEL.
+- Distribución de la familia SUSE:
+    * La empresa SUSE fue fundada en 1992 en Alemania.
+    * La primera versión de SUSE Linux fue lanzada en 1994.
+    * Herramienta de configuración YaST, esta herramienta permite instalar y configurar software y hardware, asi como servicios y redes.
+    * Lanza SUSE Linux Enterprise Server:
+         * Es la edición comercial.
+         * Se publica con menos frecuencia.
+         * Es adecuada para la implementación empresarial y de producción.
+    * La distribución openSUSE se lanza en el 2004, está disponible gratuitamente.
+- A lo largo de los años se han lanzado distribuciones independientes:
+    * Basadas en Red Hat o Ubuntu.
+    * Diseñadas para mejorar una propiedad específica.
+    * Construidas con funcionalidades específicas como:
+         * QubesOS, entorno de escritorio muy seguro.
+         * Kali Linux, entorno para explotar vulnerabilidades, utilizado en pruebas de penetración.
+    * Diseñadas para ejecutarse en contenedores Linux como Docker.
+    * Creadas específicamente para componentes de sistemas embebidos e incluso dispositivos inteligentes.
   
