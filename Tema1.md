@@ -62,4 +62,33 @@
          * Kali Linux, entorno para explotar vulnerabilidades, utilizado en pruebas de penetración.
     * Diseñadas para ejecutarse en contenedores Linux como Docker.
     * Creadas específicamente para componentes de sistemas embebidos e incluso dispositivos inteligentes.
-  
+
+#### Sistemas embebidos
+
+- Los sistemas embebidos son una combinación de hardware y software diseñados para tener una función específica dentro de una gran sistema
+- El software embebido, su propósito de este software es acceder al hardware y hacerlo utilizable.
+- Dos de los proyectos de software embebido más populares son Android y Raspbian.
+
+   ##### Android
+
+   - Es un sistema operativo para dispositivos móviles.
+   - Fue fundado en 2003 en Palo Alto.
+   - En el 2005 Google adquirió Android Inc.
+   - La base de Android es una versión modificada del kernel de Linux con software adicional de código abierto.
+   - El código de Android está disponible gratuitamente como Android Open Source Project (AOSP).
+   - Casi todos los dispositivos móviles con Android incluyen el software patentado de Google.
+
+   ##### Raspbian y Raspberry Pi
+
+   - Raspberry Pi es una computadora de bajo costo del tamaño de una tarjeta de crédito.
+   - SU principal propósito es enseñar a los jóvenes a aprender a programar y comprender la funcionalidad de las PC's.
+   - Incluyen un conjunto de pines de Entrada/Salida de propósito general (GPIO) que pueden ser utilizados para acoplar dispositivos electrónicos.
+   - Una de las distribuciones linux más destacadas para Raspberry Pi es Raspbian.
+   - Raspbian proporciona más de 35000 paquetes optimizados.
+
+#### Linux y el Cloud Computing
+
+- El término cloud computing se refiere a una forma estandarizada de consumir recursos informáticos.
+- Según informes del 2017, Linux ejecuta el 90% de la carga de trabajo de la nube pública.
+- Linux es ofrecido como parte de Infrastructure as a Service (IssS)
+
