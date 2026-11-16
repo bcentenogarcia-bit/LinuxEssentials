@@ -16,9 +16,9 @@
 
 #### Distribuciones
 
-- Es paquete que consiste en un kernel de linux y una selección de aplicaciones mantenidas por una empresa o comunidad de usuarios.
-- El objetivo es optimizar el nucleo y las aplicaciones.
-- Incluyen herramientas específicas para la instalación y la administración del sistema.
+- Es un paquete que consiste en un kernel de linux y una selección de aplicaciones mantenidas por una empresa o comunidad de usuarios.
+- El objetivo es optimizar el nucleo y las aplicaciones que se ejecutan para un determinado caso de uso o grupo de usuarios.
+- Incluyen herramientas específicas para la instalación de software y la administración del sistema.
 - Algunas se usan para entornos de escritorio(facil de usar) y otras para servidores(usar los recursos de manera eficiente).
 - Las ditribuciones se clasifican por la distribución familiar.
 - Distribuciones de familia Debian:
